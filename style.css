@@ -1,0 +1,25 @@
+.site-header {
+    background-color: #ffffff;
+    border-bottom: 1px solid #e0e0e0;
+    padding: 1rem 2rem;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #333333;
+    margin-left: 1.5rem;
+    font-weight: 500;
+}
+
+.btn-book {
+    background-color: #2C3E35;
+    color: #ffffff !important;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+}
